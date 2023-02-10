@@ -73,11 +73,14 @@ background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed
 .navbar .navbar-toggler {
     border: 0;
 }
->nav-brand {
-    color:#ffff;
+.navbar-brand {
+    font-weight: bold;
 }
 .navbar .navbar-toggler {
     border: 0;
+}
+.navbar .navbar-nav a {
+    font-weight: bold;
 }
 
 
