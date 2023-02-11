@@ -1,8 +1,9 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
-.alert-container {
-
+.alert-container .col-12 {
+padding-left: 0px;
+padding-right: 0px;
 }
 
 .callout-container{
